@@ -1,0 +1,5 @@
+f = open('new.txt', 'a')
+f.write('lol\n')
+f.write('rofl\n')
+f.write('lmao\n')
+f.close()
